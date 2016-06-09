@@ -1,0 +1,65 @@
+{ "type": "FeatureCollection",
+    "features": 
+	[
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [-29.795017, -51.152215]},
+			"properties": {"tipo": "comida"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [-29.795260, -51.152102]},
+			"properties": {"tipo": "sala_de_aula"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [-29.795484, -51.152076]},
+			"properties": {"tipo": "sala_de_aula"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [-29.795750, -51.151983]},
+			"properties": {"tipo": "sala_de_aula"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [-29.795869, -51.151188]},
+			"properties": {"tipo": "sala_de_aula"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [-29.796159, -51.151236]},
+			"properties": {"tipo": "sala_de_aula"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [-29.796228, -51.151592]},
+			"properties": {"tipo": "adm"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [-29.795925, -51.151491]},
+			"properties": {"tipo": "banheiro"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [-29.795400, -51.151638]},
+			"properties": {"tipo": "banheiro"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [-29.795224, -51.153175]},
+			"properties": {"tipo": "comida"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [-29.795133, -51.153090]},
+			"properties": {"tipo": "banheiro"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [-29.795097, -51.152843]},
+			"properties": {"tipo": "sala_de_aula"}
+		}
+   ]
+ }
