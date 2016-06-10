@@ -62,29 +62,29 @@
 			"properties": {"tipo": "sala_de_aula"}
 		},
 		{
-				"type": "Feature",
-				"geometry": {"type": "Point", "coordinates": [ -51.152092, -29.798050]},
-				"properties": {"tipo": "estadio"}
-			},
-			{
-				"type": "Feature",
-				"geometry": {"type": "Point", "coordinates": [ -51.152451, -29.797374]},
-				"properties": {"tipo": "ginasio"}
-			},
-			{
-				"type": "Feature",
-				"geometry": {"type": "Point", "coordinates": [ -51.151560, -29.795968]},
-				"properties": {"tipo": "auditorio"}
-			},
-			{
-				"type": "Feature",
-				"geometry": {"type": "Point", "coordinates": [ -51.151529, -29.794683]},
-				"properties": {"tipo": "auditorio"}
-			},
-			{
-				"type": "Feature",
-				"geometry": {"type": "Point", "coordinates": [ -51.156169, -29.797011]},
-				"properties": {"tipo": "auditorio"}
-			},
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [ -51.152092, -29.798050]},
+			"properties": {"tipo": "estadio"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [ -51.152451, -29.797374]},
+			"properties": {"tipo": "ginasio"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [ -51.151560, -29.795968]},
+			"properties": {"tipo": "auditorio"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [ -51.151529, -29.794683]},
+			"properties": {"tipo": "auditorio"}
+		},
+		{
+			"type": "Feature",
+			"geometry": {"type": "Point", "coordinates": [ -51.156169, -29.797011]},
+			"properties": {"tipo": "auditorio"}
+		}
    ]
  }
