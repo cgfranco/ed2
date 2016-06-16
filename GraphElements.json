@@ -104,11 +104,6 @@
             "geometry": {"type": "Point", "coordinates": [-51.154494,-29.796550]},
             "properties": {"id": 22, "tipo": "comida"}
         },
-
-        {   "type": "Feature",
-            "geometry": {"type": "Point", "coordinates": [-51.152215, -29.795017]},
-            "properties": {"id": 23, "tipo": "adm"}
-        },
         {   "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.155122,-29.795181]},
             "properties": {"id": 24, "tipo": "adm"}
