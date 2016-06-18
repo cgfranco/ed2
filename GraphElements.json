@@ -113,6 +113,14 @@
             "geometry": {"type": "Point", "coordinates": [-51.153722,-29.795935]},
             "properties": {"id": 25, "tipo": "comida"}
         },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.156551,-29.795016]},
+            "properties": {"id": 26, "tipo": "sala_de_aula", "name": "Biblioteca"}
+        },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.153456,-29.795222]},
+            "properties": {"id": 27, "tipo": "comida", "name": "Taberna"}
+        },
         {
             "type": "Feature",
             "geometry": {"type": "LineString",
@@ -390,7 +398,21 @@
         "properties": {"v1": 11 , "v2": 12, "deslocamento": "walk"}
 
 
+        },
+        { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.156551, -29.795016],
+                                  [-51.153456, -29.795222] 
+                                ]
+        },
+        "properties": {"v1": 26 , "v2": 27, "deslocamento": "car"}
+
+
         }
+
 
 
 
