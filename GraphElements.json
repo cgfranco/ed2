@@ -153,8 +153,14 @@
             "geometry": {"type": "Point", "coordinates": [-51.156522,-29.793926]},
             "properties": {"id": 32, "tipo": "estacionamento", "name": "Estacionamento A2"}
         },
-        
-        
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.149682,-29.793235]},
+            "properties": {"id": 33, "tipo": "estacionamento", "name": "Estacionamento F1"}
+        },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.151281,-29.797364]},
+            "properties": {"id": 34, "tipo": "estacionamento", "name": "Estacionamento H1"}
+        },
         
         {
             "type": "Feature",
