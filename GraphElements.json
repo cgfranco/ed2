@@ -465,7 +465,112 @@
         "properties": {"v1": 26 , "v2": 17, "deslocamento": "walk"}
 
 
-        }
+        },
+        { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.154709, -29.792369],
+                                  [-51.151340, -29.796564] 
+                                ]
+        },
+        "properties": {"v1": 19 , "v2": 23, "deslocamento": "car"}
+
+
+        },
+        { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.154709, -29.792369],
+                                  [-51.152815, -29.796834] 
+                                ]
+        },
+        "properties": {"v1": 19 , "v2": 28, "deslocamento": "car"}
+
+
+        },
+        { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.154709, -29.792369],
+                                  [-51.152636, -29.792423] 
+                                ]
+        },
+        "properties": {"v1": 19 , "v2": 29, "deslocamento": "car"}
+
+
+        },
+        { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.154709, -29.792369],
+                                  [-51.155573, -29.797710] 
+                                ]
+        },
+        "properties": {"v1": 19 , "v2": 30, "deslocamento": "car"}
+
+
+        },
+        { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.154709, -29.792369],
+                                  [-51.156542, -29.797512] 
+                                ]
+        },
+        "properties": {"v1": 19 , "v2": 31, "deslocamento": "car"}
+
+
+        },
+        { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.154709, -29.792369],
+                                  [-51.156522, -29.793926] 
+                                ]
+        },
+        "properties": {"v1": 19 , "v2": 32, "deslocamento": "car"}
+
+
+        },
+        { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.154709, -29.792369],
+                                  [-51.149682, -29.793235] 
+                                ]
+        },
+        "properties": {"v1": 19 , "v2": 33, "deslocamento": "car"}
+
+
+        },
+        { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.154709, -29.792369],
+                                  [-51.151281, -29.797364] 
+                                ]
+        },
+        "properties": {"v1": 19 , "v2": 34, "deslocamento": "car"}
+
+
+        },
+        
 
 
 
