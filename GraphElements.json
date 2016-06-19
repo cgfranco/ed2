@@ -91,7 +91,12 @@
            "geometry": {"type": "Point","coordinates": [-51.152864,-29.796498]},
            "properties": {"id": 18, "tipo": "adm", "name": "Admin Bloco D01"}
     },
-        {   "type": "Feature",
+        {
+           "type": "Feature",
+           "geometry": {"type": "Point","coordinates": [-51.154709,-29.792369]},
+           "properties": {"id": 19, "tipo": "estacionamento", "name": "Parada Unisinos"}
+    },
+            {   "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.154087,-29.796475]},
             "properties": {"id": 20, "tipo": "adm", "name": "Admin Bloco E12"}
         },
@@ -100,10 +105,17 @@
             "geometry": {"type": "Point", "coordinates": [-51.154215,-29.796205]},
             "properties": {"id": 21, "tipo": "sala_de_aula", "name": "E13"}
         },
+        
         {   "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.154494,-29.796550]},
             "properties": {"id": 22, "tipo": "comida", "name": "Lancheria do Direito"}
         },
+        
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.151340,-29.796564]},
+            "properties": {"id": 23, "tipo": "estacionamento", "name": "Estacionamento D1"}
+        },
+        
         {   "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.155122,-29.795181]},
             "properties": {"id": 24, "tipo": "adm", "name": "Atendimento Unisinos"}
@@ -121,6 +133,18 @@
             "geometry": {"type": "Point", "coordinates": [-51.153456,-29.795222]},
             "properties": {"id": 27, "tipo": "comida", "name": "Taberna"}
         },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.152815,-29.796834]},
+            "properties": {"id": 28, "tipo": "estacionamento", "name": "Estacionamento D2"}
+        },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.152636,-29.792423]},
+            "properties": {"id": 29, "tipo": "estacionamento", "name": "Estacionamento C1"}
+        },
+        
+        
+        
+        
         {
             "type": "Feature",
             "geometry": {"type": "LineString",
