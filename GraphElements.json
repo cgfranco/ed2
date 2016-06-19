@@ -141,7 +141,10 @@
             "geometry": {"type": "Point", "coordinates": [-51.152636,-29.792423]},
             "properties": {"id": 29, "tipo": "estacionamento", "name": "Estacionamento C1"}
         },
-        
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.155573,-29.797710]},
+            "properties": {"id": 30, "tipo": "estacionamento", "name": "Estacionamento E1"}
+        },
         
         
         
