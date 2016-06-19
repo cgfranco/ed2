@@ -4,72 +4,72 @@
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.152215, -29.795017]},
-            "properties": {"id": 1, "tipo": "comida"}
+            "properties": {"id": 1, "tipo": "comida", "name": "Panquecas do Alemão"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.152102, -29.795260]},
-            "properties": {"id": 2, "tipo": "sala_de_aula"}
+            "properties": {"id": 2, "tipo": "sala_de_aula", "name": "D10"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.152076, -29.795484]},
-            "properties": {"id": 3, "tipo": "sala_de_aula"}
+            "properties": {"id": 3, "tipo": "sala_de_aula", "name": "D09"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.151983, -29.795750]},
-            "properties": {"id": 4, "tipo": "sala_de_aula"}
+            "properties": {"id": 4, "tipo": "sala_de_aula", "name": "D08"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.151188, -29.795869]},
-            "properties": {"id": 5, "tipo": "sala_de_aula"}
+            "properties": {"id": 5, "tipo": "sala_de_aula", "name": "D07"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.151236, -29.796159]},
-            "properties": {"id": 6, "tipo": "sala_de_aula"}
+            "properties": {"id": 6, "tipo": "sala_de_aula", "name": "D06"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.151592, -29.796228]},
-            "properties": {"id": 7, "tipo": "adm"}
+            "properties": {"id": 7, "tipo": "adm", "name": "Admin Bloco D"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.151491, -29.795925]},
-            "properties": {"id": 8, "tipo": "banheiro"}
+            "properties": {"id": 8, "tipo": "banheiro", "name": "Banheiro D07"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.151638, -29.795400]},
-            "properties": {"id": 9, "tipo": "banheiro"}
+            "properties": {"id": 9, "tipo": "banheiro", "name": "Banheiro D09"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.153175, -29.795224]},
-            "properties": {"id": 10, "tipo": "comida"}
+            "properties": {"id": 10, "tipo": "sala_de_aula", "name": "B15"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.153090, -29.795133]},
-            "properties": {"id": 11, "tipo": "banheiro"}
+            "properties": {"id": 11, "tipo": "banheiro", "name": "Banheiro B15"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.152843, -29.795097]},
-            "properties": {"id": 12, "tipo": "sala_de_aula"}
+            "properties": {"id": 12, "tipo": "sala_de_aula", "name": "B15"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.152092, -29.798050]},
-            "properties": {"id": 13, "tipo": "estadio"}
+            "properties": {"id": 13, "tipo": "estadio", "name": "Estádio"}
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.152451, -29.797374]},
-            "properties": {"id": 14, "tipo": "ginasio"}
+            "properties": {"id": 14, "tipo": "ginasio", "name": "Ginásio"}
         },
         {
             "type": "Feature",
