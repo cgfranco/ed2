@@ -145,6 +145,14 @@
             "geometry": {"type": "Point", "coordinates": [-51.155573,-29.797710]},
             "properties": {"id": 30, "tipo": "estacionamento", "name": "Estacionamento E1"}
         },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.156542,-29.797512]},
+            "properties": {"id": 31, "tipo": "estacionamento", "name": "Estacionamento E2"}
+        },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.156522,-29.793926]},
+            "properties": {"id": 32, "tipo": "estacionamento", "name": "Estacionamento A2"}
+        },
         
         
         
