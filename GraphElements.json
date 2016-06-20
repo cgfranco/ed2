@@ -676,6 +676,123 @@
         "properties": {"v1": 10, "v2": 19, "deslocamento": "walk"}
 
 
+        },
+                { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.154714, -29.794674],
+                                  [-51.155122, -29.795181] 
+                                ]
+        },
+        "properties": {"v1": 35, "v2": 24, "deslocamento": "walk"}
+
+
+        },
+                { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.152359, -29.793175],
+                                  [-51.152636, -29.792423] 
+                                ]
+        },
+        "properties": {"v1": 36, "v2": 29, "deslocamento": "walk"}
+
+
+        },
+                { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.152359, -29.793175],
+                                  [-51.152100, -29.794453] 
+                                ]
+        },
+        "properties": {"v1": 36, "v2": 37, "deslocamento": "walk"}
+
+
+        },
+                { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.151529, -29.794683],
+                                  [-51.152215, -29.795017] 
+                                ]
+        },
+        "properties": {"v1": 16, "v2": 1, "deslocamento": "walk"}
+
+
+        },
+                { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.152100, -29.794453],
+                                  [-51.151529, -29.794683] 
+                                ]
+        },
+        "properties": {"v1": 37, "v2": 16, "deslocamento": "walk"}
+
+
+        },
+                { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.151730, -29.795459],
+                                  [-51.152076, -29.795484] 
+                                ]
+        },
+        "properties": {"v1": 38, "v2": 3, "deslocamento": "walk"}
+
+
+        },
+                { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.150060, -29.791958],
+                                  [-51.149682, -29.793235] 
+                                ]
+        },
+        "properties": {"v1": 39, "v2": 33, "deslocamento": "walk"}
+
+
+        },
+                { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.152343, -29.797853],
+                                  [-51.151807, -29.797760] 
+                                ]
+        },
+        "properties": {"v1": 40, "v2": 41, "deslocamento": "walk"}
+
+
+        },
+                { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.151807, -29.797760],
+                                  [-51.152451, -29.797374] 
+                                ]
+        },
+        "properties": {"v1": 41, "v2": 14, "deslocamento": "walk"}
+
+
         }
 
         
