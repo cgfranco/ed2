@@ -419,11 +419,11 @@
                 "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                                  [-51.153175, -29.795224],
+                                  [-51.153456, -29.795222],
                                   [-51.153090, -29.795133]
                                 ]
         },
-        "properties": {"v1": 10 , "v2": 11, "deslocamento": "walk"}
+        "properties": {"v1": 27 , "v2": 11, "deslocamento": "walk"}
 
 
         },
