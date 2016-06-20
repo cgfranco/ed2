@@ -161,6 +161,35 @@
             "geometry": {"type": "Point", "coordinates": [-51.151281,-29.797364]},
             "properties": {"id": 34, "tipo": "estacionamento", "name": "Estacionamento H1"}
         },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.154714,-29.794674]},
+            "properties": {"id": 35, "tipo": "comida", "name": "Tabacaria Central"}
+        },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.152359,-29.793175]},
+            "properties": {"id": 36, "tipo": "adm", "name": "Admin Bloco C02"}
+        },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.152100,-29.794453]},
+            "properties": {"id": 37, "tipo": "sala_de_aula", "name": "Lacomp"}
+        },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.151730,-29.795459]},
+            "properties": {"id": 38, "tipo": "comida", "name": "Máquina de Café D09"}
+        },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.150060,-29.791958]},
+            "properties": {"id": 39, "tipo": "adm", "name": "Reitoria"}
+        },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.152343,-29.797853]},
+            "properties": {"id": 40, "tipo": "sala_de_aula", "name": "H02"}
+        },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.151807,-29.797760]},
+            "properties": {"id": 41, "tipo": "adm", "name": "Adm Bloco H02"}
+        },
+        
         
         {
             "type": "Feature",
