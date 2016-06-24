@@ -123,7 +123,7 @@
 
         {   "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.153722,-29.795935]},
-            "properties": {"id": 25, "tipo": "comida", "name": "Fratelo"}
+            "properties": {"id": 25, "tipo": "comida", "name": "Fratello"}
         },
         {   "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-51.156551,-29.795016]},
@@ -209,6 +209,32 @@
             "geometry": {"type": "Point", "coordinates": [-51.153588, -29.793449]},
             "properties": {"id": 45, "tipo": "auditorio", "name": "Auditório Central B08"}
         },
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.155176, -29.794175]},
+            "properties": {"id": 46, "tipo": "comida", "name": "Restaurante Universitário"}
+        },
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.155894, -29.794362]},
+            "properties": {"id": 47, "tipo": "banco", "name": "Banrisul"}
+        },
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.156125, -29.796517]},
+            "properties": {"id": 48, "tipo": "comida", "name": "Delicias Gourmet"}
+        },
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.154607, -29.796038]},
+            "properties": {"id": 49, "tipo": "copia_e_impressao", "name": "Digitare Servicos Academicos"}
+        },
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.155637, -29.796289]},
+            "properties": {"id": 50, "tipo": "sala_de_aula", "name": "E10"}
+        },
+        
         
         
         {
@@ -936,6 +962,105 @@
                                 ]
         },
         "properties": {"v1": 45, "v2": 36, "deslocamento": "walk"}
+        
+        
+        },
+        
+               { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.154714, -29.794674],
+                                  [-51.155176, -29.794175] 
+                                ]
+        },
+        "properties": {"v1": 35, "v2": 46, "deslocamento": "walk"}
+        
+        
+        },
+        
+               { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.153588, -29.793449],
+                                  [-51.155176, -29.794175] 
+                                ]
+        },
+        "properties": {"v1": 45, "v2": 46, "deslocamento": "walk"}
+        
+        
+        },
+        
+               { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.155176, -29.794175],
+                                  [-51.155894, -29.794362] 
+                                ]
+        },
+        "properties": {"v1": 46, "v2": 47, "deslocamento": "walk"}
+        
+        
+        },
+        
+               { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.155894, -29.794362],
+                                  [-51.156551,-29.795016] 
+                                ]
+        },
+        "properties": {"v1": 47, "v2": 26, "deslocamento": "walk"}
+        
+        
+        },
+        
+               { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.156169, -29.797011],
+                                  [-51.156125, -29.796517] 
+                                ]
+        },
+        "properties": {"v1": 17, "v2": 48, "deslocamento": "walk"}
+        
+        
+        },
+        
+               { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.154215, -29.796205],
+                                  [-51.154607, -29.796038] 
+                                ]
+        },
+        "properties": {"v1": 21, "v2": 49, "deslocamento": "walk"}
+        
+        
+        },
+        
+               { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.155111, -29.796945],
+                                  [-51.155637, -29.796289] 
+                                ]
+        },
+        "properties": {"v1": 43, "v2": 50, "deslocamento": "walk"}
+
 
 
         }
