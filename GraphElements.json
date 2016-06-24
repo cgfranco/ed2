@@ -806,6 +806,20 @@
         "properties": {"v1": 32, "v2": 24, "deslocamento": "walk"}
 
 
+        },
+        
+               { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.156542, -29.797512],
+                                  [-51.156169, -29.797011] 
+                                ]
+        },
+        "properties": {"v1": 31, "v2": 17, "deslocamento": "walk"}
+
+
         }
 
         
