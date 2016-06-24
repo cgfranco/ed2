@@ -189,6 +189,14 @@
             "geometry": {"type": "Point", "coordinates": [-51.151807,-29.797760]},
             "properties": {"id": 41, "tipo": "adm", "name": "Adm Bloco H02"}
         },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.157057, -29.796198]},
+            "properties": {"id": 42, "tipo": "sala_de_aula", "name": "E04"}
+        },
+        {   "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-51.151646, -29.793258]},
+            "properties": {"id": 43, "tipo": "comida", "name": "Happy Station"}
+        },
         
         
         {
@@ -818,6 +826,51 @@
                                 ]
         },
         "properties": {"v1": 31, "v2": 17, "deslocamento": "walk"}
+
+
+        },
+        { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.157057, -29.796198],
+                                  [-51.156169, -29.797011]
+                                  
+                                  
+                                ]
+        },
+        "properties": {"v1": 17, "v2": 42, "deslocamento": "walk"}
+
+
+        },
+        { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.152359,-29.793175],
+                                  [-51.151646, -29.793258]
+                                  
+                                  
+                                ]
+        },
+        "properties": {"v1": 43, "v2": 36, "deslocamento": "walk"}
+
+
+        },
+        { 
+                "type": "Feature",
+                "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                                  [-51.151646, -29.793258],
+                                  [-51.149682,-29.793235]
+                                  
+                                  
+                                ]
+        },
+        "properties": {"v1": 33, "v2": 43, "deslocamento": "walk"}
 
 
         }
